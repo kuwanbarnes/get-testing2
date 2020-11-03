@@ -1,1 +1,2 @@
-var hello ="hello"
+var hello ="hello";
+var goodbye = "goodbye";
